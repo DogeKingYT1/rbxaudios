@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #242424;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  .search-container {
+    margin-right: 30px;
+    margin-bottom: 20px;
+  }
+  
+  input[type="text"] {
+    padding: 8px;
+    font-size: 16px;
+    background: #383838;
+    color: #ffffff;
+  }
+  
+  
+  #songList {
+    background: #2e2e2e;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    padding: 10px;
+  }
+  
+  button {
+    padding: 8px 12px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 10px;
+    margian: ;
+    background-color: #404040;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: #262626;
+  }
+  
+  
