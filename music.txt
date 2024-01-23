@@ -618,42 +618,42 @@ bleuga 7751396659
 1844290807 -- 1800s George Washington Choir
 1844945721
 1845491421
-2200385599
-2626152169
-3900067524
-4373001163
-4835346587
-5216738441
-5316723387
-5410081702
-6001332169
-6038276929
-6084177131
-6435679021
-6491883020
-6658650660
-6753817247
-6770303644
-6774872457
-6781116057
-6782202354
-6783714255
-6788646778
-6817682704
-6819593773
-6828176320
-6831109213
-6834218705
-6841087956
-6846153394
-6847929757
-6859498588
-6864174406
-6868205194
-6868100434
-6872126938
-6889574376
-6891562780
+2200385599 -- doesnt work
+2626152169 -- 'Thugs aint me' - Phonk
+3900067524 -- Train Horn (LOUD)
+4373001163 -- Chinese and then Loud Siren
+4835346587 -- fnaf night finished and then call from fnaf phone
+5216738441 -- Barack Obama Beatbox
+5316723387 -- doesnt work (supposed to be loud door sfx)
+5410081702 -- (Half an Orange - Mark Twain)
+6001332169 -- Carl Wheezer - "I don't feel so good" (NFL Meme)
+6038276929 -- doesnt work
+6084177131 -- JohnRBLX Gorilla Sounds (LOUD)
+6435679021 -- doesnt work
+6491883020 -- loud motorcycle engine
+6658650660 -- doesnt work
+6753817247 -- rap song (mario theme song)
+6770303644 -- loud hip-hop/rap (Minecraft Chest)
+6774872457 -- lofi (made by STRAPPA)
+6781116057 -- sick flu "Strawberry Icecream, one spoon for two" (MADE BY STRAPPA)
+6782202354 -- BASS BOOSTED RAP - Made by SSR (Clicky Noise) 
+6783714255 -- "Syko" (CyberGunShotSFX)
+6788646778 -- Rap Song - Made by Seven & XOneV (Spam Letters & Numbers)
+6817682704 -- doesnt work 
+6819593773 -- phonk - made by rineyo (camera click)
+6828176320 -- Paint it, Black - The Rolling Stones
+6831109213 -- Rap Music - FWKiddo
+6834218705 -- Jass Phonk - LanaSoKawaiii (loud) 
+6841087956 -- Rap Music (Loud)
+6846153394 -- Phonk (Loud ASF) (Xbox_One)
+6847929757 -- baby im alone and sad (explode)
+6859498588 -- loud random uneligable bullshit
+6864174406 -- minecraft oof
+6868205194 -- duck quacking
+6868100434 -- spanish phonk (loud) (made by lxrouu)
+6872126938 -- Depressing Guitar (LaserGun_10)
+6889574376 -- Spanish HipHip
+6891562780 --
 6893776529
 6895322166
 6896306675
