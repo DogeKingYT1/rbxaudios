@@ -616,8 +616,8 @@ bleuga 7751396659
 1843645746 -- sucky hip-hop
 1844035480 -- Something About it (Hip-Hop)
 1844290807 -- 1800s George Washington Choir
-1844945721
-1845491421
+1844945721 -- Doesnt Work
+1845491421 -- Doesnt Work
 2200385599 -- doesnt work
 2626152169 -- 'Thugs aint me' - Phonk
 3900067524 -- Train Horn (LOUD)
@@ -653,10 +653,10 @@ bleuga 7751396659
 6868100434 -- spanish phonk (loud) (made by lxrouu)
 6872126938 -- Depressing Guitar (LaserGun_10)
 6889574376 -- Spanish HipHip
-6891562780 --
-6893776529
-6895322166
-6896306675
+6891562780 -- Nonsense / Random Sounds (Loud)
+6893776529 -- Rap (Loud)
+6895322166 -- Doesn't work
+6896306675 -- Petah On my DICK (Loud)
 6896624865
 6897832025
 6908363574
