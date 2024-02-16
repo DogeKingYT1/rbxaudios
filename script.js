@@ -46,7 +46,7 @@ const songIDs = [
       const copyButton = document.createElement("button");
   
       songDiv.innerHTML = `<strong>${song.title}</strong>: ${song.id}`;
-      copyButton.textContent = "Copy";
+      copyButton.textContent = "Copy <i class="fa-regular fa-clipboard"></i>";
       copyButton.addEventListener("click", () => copyToClipboard(song.id));
   
       songDiv.appendChild(copyButton);
