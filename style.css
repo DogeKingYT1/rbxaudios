@@ -41,7 +41,7 @@ body {
     font-size: 16px;
     cursor: pointer;
     margin-left: 10px;
-
+    margin: 15px;
     background-color: #404040;
     color: #fff;
     border: none;
@@ -56,6 +56,7 @@ body {
     font-size: 15px;
     margin-left: 25px;
   }
+
   .fa-clipboard {
     color: #ffffff;
     font-size: 15px;
