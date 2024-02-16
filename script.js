@@ -17,8 +17,19 @@ const songIDs = [
     { title: "Gangstas Paradise Intro Loop", id: 6070263388 },
     { title: "Vine Boom SFX (The Rock Meme)", id: 8987546731 },
     { title: "Snoring Meme (Aughhh)", id: 5754316938 },
+    { title: "Petah On my DICK (Loud)", id: 6896306675 },
+    { title: "Carl Wheezer - I don't feel so good (NFL Meme)", id: 6001332169 },
+    { title: "Windows XP sound (Loud)", id: 1107208252 },
+    { title: "1900s Cartoony Music", id: 1837484771 },
+    { title: "1900s Song (Frank Sinatra like song)", id: 1837485023 },
+    { title: "1800s George Washington Choire", id: 1844290807 },
     { title: "Template-Name", id: 123456789 },
-
+    { title: "Template-Name", id: 123456789 },
+    { title: "Template-Name", id: 123456789 },
+    { title: "Template-Name", id: 123456789 },
+    { title: "Template-Name", id: 123456789 },
+    { title: "Template-Name", id: 123456789 },
+    
   ];
   
   function displaySongList(songs) {
