@@ -54,5 +54,11 @@ body {
   .fa-magnifying-glass {
     color: #ffffff;
     font-size: 20px;
+    margin-right: 25px;
+  }
+  .fa-clipboard {
+    color: #ffffff;
+    font-size: 20px;
+    margin-right: 25px;
   }
   
